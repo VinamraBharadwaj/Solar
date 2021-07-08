@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gisproject-319220",
+  "private_key_id": "3d22c76c6e29217d3ec7d32757690c48d1dbbec4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCa8swI8OGxCnS6\nwrF7TgY3lo25Kny7U5TgWhaLWE8iGnE3Uf6Ea/UW907EoRUmcgBni4WXKZ4eh8mw\nkRGY93pkKuUl6gcRBdvmPueqrncl11WfzbGp7ET5i6PKqIGYZXhgQCHM45zQRJGw\n2QplZOSUvgPTQXuEiavcEc1uttY/t/vskJ9WCLvluV0p4gj1i9irmDd5TxDuwhB2\n/R8NGq/7ubrQKMJWLO9V7G7PWnTrb3b7ckgmz9xcO2vRykZdPY+1WBBnyZI01+Ai\nNVcKvSz4QofjdRG6cQWqID/DqK7iP8DuLdY31DajfnuowKUMxqv9sslUBfAyHNoX\nAkAmO6BpAgMBAAECggEACy2CPg/gfCTQtGtYodhIVwi/mxC/VEUsi328PBuoA8IM\nEk1SMsvV76zyC/nB3JbjRBT602OPckzh5iCk+Be8Rs8YXkKSdW4qhaLalAPHeR2e\nYeuVCjjO5gCmlXdP+AYz55+gwJbX6GdV6j/SAewEGF3XyUzjQ/WphfPr0bWTYZ+/\nqktSCEN4MepgXvG2pHN3d5atWCDxLjsKqPeaZ+zU9Zki3G0J29bgfnFY2qvba9aw\nSTfpQxBN8C2Xo8dEchSUgwozj0MFYi/nGTJtbrhBjN8D8mmgZo/MoNetJozPCxje\n3dprZ4Pj2/Nq4V/X+yW5G0Ov0G4IBMbzRHCCyBSnXQKBgQDJRSO21dNiK7/vjjFF\nbpAO+92Ud0vGa5Gmsa3FWT4McbOm+B0li/XaBMMAMHaySeEyRKq6srwWbs54I/Rp\nTjdonGMFLIglrNWqBTcb1z87QRodwFhSJOtf3AbnPT4mZ9PfHH7YUI6Mwj26UPSI\nQCOTHYmpJYH1xtz99i+2Wp3vXQKBgQDFFRqO05jIXxGhaSpc4U+IYWi9r7uAKgWS\n/Z+h2pCpT0tuJYKTFyWydyRaaKYNnbEUPiBQ/A3DOJF/lBDYlg4e/u1nUBI9QxNm\nzQBBOxACJIHIZlxQrZEQDNA7ecnJ4YnCq/Cv2iANAdJej32GIcm0auLufocz6934\nggfgQHjAfQKBgCsWYBTuJbiogQh5ulaQ2so6ZS85csFhmebDtt2+wyfK15jxGNxG\n4DTyPAS4W1DDvDAUvzAEv3tV8WGK4PICSp5cjF45MFRQcdVaFHgjVmgLAdpIqR+8\nw57b7aZnV/zE0Xi8EvOgG0RK+Qf/+LmKcZM3CZdqbi39iqXbpE83iwQJAoGAKczM\nETb31Ke1SZLQlVqET9y5JmI7VneTLxXz4ZRF0mMrEHWMOD5UlIGIiFRhw8mKYUy7\n9fE/ygQZeAGjgQxyekh/ecYV2EB9wPQB9dPdFVdA34w2UDY/6jONhs/R6KuZWFy3\nc9TDr36Pa9brPKO18DorX4IekviX37lUik+iTNECgYEAmWzcq6A/gD+G9pKbc0Mb\nP0G1yhvkVJduVLnZFPWRxS0nRlsH7zUPlpofbxaKP8onazAx8YDK3tbGj1waH2Np\nx55OemgYIiGISYxLBhjVP/6lZLX3zcSx3aPExISMTRk4opEIIiK4/koTB5Zfylii\nPezcSiKdzRJ3Gv1y8mba5xs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vinamrabharadwaj@gisproject-319220.iam.gserviceaccount.com",
+  "client_id": "113114254917114148977",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vinamrabharadwaj%40gisproject-319220.iam.gserviceaccount.com"
+}
