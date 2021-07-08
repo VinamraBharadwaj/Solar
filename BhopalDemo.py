@@ -21,8 +21,8 @@ import os
 
 # In[2]:
 
-ee.Authenticate()
-ee.Initialize()
+#ee.Authenticate()
+#ee.Initialize()
 
 
 # In[55]:
