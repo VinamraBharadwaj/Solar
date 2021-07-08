@@ -20,7 +20,9 @@ import os
 
 
 # In[2]:
-
+service_account = 'vinamrabharadwaj@gisproject-315509.iam.gserviceaccount.com'
+credentials = ee.ServiceAccountCredentials(service_account, 'privatekey.json')
+ee.Initialize(credentials)
 #ee.Authenticate()
 #ee.Initialize()
 
