@@ -27,7 +27,7 @@ url = "https://raw.githubusercontent.com/VinamraBharadwaj/SolarWebApp/BhopalDemo
 
 response = ulr.urlopen(url)
 
-data = json.loads(response.read())
+data = json.dumps(response.read())
 
 credentials = ee.ServiceAccountCredentials(service_account, data)
 ee.Initialize(credentials)
