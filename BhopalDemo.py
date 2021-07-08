@@ -21,8 +21,14 @@ import os
 
 # In[2]:
 service_account = 'vinamrabharadwaj@gisproject-319220.iam.gserviceaccount.com'
-j = json.load('https://raw.githubusercontent.com/VinamraBharadwaj/SolarWebApp/BhopalDemo/gisproject-319220-3d22c76c6e29.json')
-credentials = ee.ServiceAccountCredentials(service_account, j)
+
+url = "https://raw.githubusercontent.com/VinamraBharadwaj/SolarWebApp/BhopalDemo/gisproject-319220-3d22c76c6e29.json"
+
+response = ulr.urlopen(url)
+
+data = json.loads(response.read())
+
+credentials = ee.ServiceAccountCredentials(service_account, data)
 ee.Initialize(credentials)
 #ee.Authenticate()
 #ee.Initialize()
