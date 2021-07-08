@@ -24,7 +24,7 @@ service_account = 'vinamrabharadwaj@gisproject-319220.iam.gserviceaccount.com'
 
 url = "https://raw.githubusercontent.com/VinamraBharadwaj/SolarWebApp/BhopalDemo/gisproject-319220-3d22c76c6e29.json"
 
-response = ulr.urlopen(url)
+response = urllib.urlopen(url)
 
 data = json.loads(response.read())
 
