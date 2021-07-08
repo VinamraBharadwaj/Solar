@@ -21,7 +21,7 @@ import os
 
 # In[2]:
 
-
+ee.Authenticate()
 ee.Initialize()
 
 
