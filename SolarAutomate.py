@@ -165,7 +165,7 @@ if submit:
     st.write('')
     st.write('')
     
-url = 'https://share.streamlit.io/vinamrabharadwaj/covid19webapp/main/covid_webapp.py'
+url = 'https://share.streamlit.io/vinamrabharadwaj/solarwebapp/BhopalDemo/BhopalDemo.py'
 
 #submit1 = st.form_submit_button('See Bhopal Demo')
 if st.button('See Bhopal Demo'):
